@@ -11,7 +11,7 @@
     "url": "git://github.com/iancoleman/bip39.git"
   },
   "dependencies": {
-    "selenium-webdriver": "^3.6.0"
+    "selenium-webdriver": "^4.1.1"
   },
   "license": "MIT"
 }
