@@ -15,13 +15,12 @@
     "bigi": "^1.2.0",
     "browserify-aes": "^1.0.1",
     "bs58check": "<3.0.0",
-    "buffer-xor": "^1.0.2",
+    "buffer-xor": "^2.0.2",
     "create-hash": "^1.1.1",
     "ecurve": "^1.0.0",
     "scryptsy": "^2.0.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "url": "git@github.com:bitcoinjs/bip38.git",
     "type": "git"
